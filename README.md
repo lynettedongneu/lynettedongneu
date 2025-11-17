@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+A current sophomore at Northeastern University studying Computer Science with a concentration in Software.
+
+
 <!--
 **lynettedongneu/lynettedongneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
